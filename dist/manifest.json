@@ -1,0 +1,17 @@
+{
+    "name": "Cloudy Clouds Lite",
+    "short_name": "CC Lite",
+    "description": "Search your favorite restaurant services in a few seconds.",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#646464",
+    "icons": [
+      {
+        "src": "./images/icons/logo.png",
+        "sizes": "243x243",
+        "type": "image/png",
+        "purpose": "any maskable"
+      }
+    ]
+  }
